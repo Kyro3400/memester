@@ -27,7 +27,6 @@ exports.use = async (client, message, args, command, discord) => {
             message.channel.send(embed)
         }).catch()
     }
-
 }
 
 exports.help = {
