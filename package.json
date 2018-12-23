@@ -1,0 +1,22 @@
+{
+  "name": "memester",
+  "version": "1.0.0",
+  "description": "Meme bot",
+  "main": "memester.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FarrisBris/memester.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FarrisBris/memester/issues"
+  },
+  "homepage": "https://github.com/FarrisBris/memester#readme",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
