@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/FarrisBris/memester#readme",
   "dependencies": {
-    "discord.js": "^11.4.2"
+    "discord.js": "^11.4.2",
+    "got": "^9.5.0"
   }
 }
