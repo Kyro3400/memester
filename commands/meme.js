@@ -33,5 +33,5 @@ exports.help = {
     name: "meme",
     description: "Base",
     category: "Base",
-    aliases: []
+    aliases: ["memes"]
 }
