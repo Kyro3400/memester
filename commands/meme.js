@@ -23,7 +23,7 @@ exports.use = async (client, message, args, command, discord) => {
                 .setTitle("Meme requested by " + message.author.tag)
                 .setDescription(title)
                 .setImage(image)
-                .setFooter("Bot made by Farris Bris#7705")
+                .setFooter("Bot made by Atom#7885")
             message.channel.send(embed)
         }).catch()
     }
